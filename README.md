@@ -53,6 +53,7 @@ Users should be able to:
 - How to create reusable classes in CSS
 - How to fix the brief flash of unstyled content when refreshing the page
 - How to stop the blue outline from appearing when clicking a button in mobile
+- How to stop content jumping when responsive images are loaded
 
 ```
 /* CSS */
@@ -76,6 +77,7 @@ An alert is generated whenever the submit button is pressed but no rating is sel
 - [Josh's CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) - This is the CSS reset is used
 - [Eliminate flash of unstyled content](https://stackoverflow.com/questions/3221561/eliminate-flash-of-unstyled-content) - I used Jeff's solution that only uses CSS and HTML
 - [How to remove blue highlight of a button on mobile](https://stackoverflow.com/questions/45049873/how-to-remove-the-blue-highlight-of-button-on-mobile)
+- [How to prevent content jumps when images are loaded](https://dreisbach.us/articles/prevent-jumps-while-image-loading/)
 
 ## Author
 
