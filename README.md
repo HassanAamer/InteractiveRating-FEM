@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontEndMentor](hhttps://www.frontendmentor.io/solutions/interactive-rating-screen-with-thanks-and-error-handling-KhEgNWoEGZ)
+- Solution URL: [FrontEndMentor](https://www.frontendmentor.io/solutions/interactive-rating-screen-with-thanks-and-error-handling-KhEgNWoEGZ)
 - Live Site URL: [https://rating.hassanaamer.com/](https://rating.hassanaamer.com/)
 
 ## My process
