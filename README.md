@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontEndMentor](hhttps://www.frontendmentor.io/solutions/interactive-rating-screen-with-thanks-and-error-handling-KhEgNWoEGZ)
+- Solution URL: [FrontEndMentor](https://www.frontendmentor.io/solutions/interactive-rating-screen-with-thanks-and-error-handling-KhEgNWoEGZ)
 - Live Site URL: [https://rating.hassanaamer.com/](https://rating.hassanaamer.com/)
 
 ## My process
@@ -51,7 +51,7 @@ Users should be able to:
 - How to add and remove classes to html elements using Native JavaScript
 - How to add event-listeners to html elements.
 - How to create reusable classes in CSS
-
+- How to fix the brief flash of unstyled content when refreshing the page
 
 ### Continued development
 
@@ -60,6 +60,7 @@ An alert is generated whenever the submit button is pressed but no rating is sel
 ### Useful resources
 
 - [Josh's CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) - This is the CSS reset is used
+- [Eliminate flash of unstyled content](https://stackoverflow.com/questions/3221561/eliminate-flash-of-unstyled-content) - I used Jeff's solution that only uses CSS and HTML
 
 ## Author
 
