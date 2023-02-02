@@ -29,7 +29,7 @@ function renderThanks(rating) {
     const main = document.querySelector('main')
     main.innerHTML = `<div class="card grid text-center">
     <picture class="card__image">
-      <img src="images/illustration-thank-you.svg" alt="Review successfull! Thank you">
+      <img src="images/illustration-thank-you.svg">
     </picture>
 
     <div class="selection-area">You selected <span class="selection">${rating}</span> out of 5 </div>
