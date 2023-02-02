@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontEndMentor](hhttps://www.frontendmentor.io/solutions/interactive-rating-screen-with-thanks-and-error-handling-KhEgNWoEGZ)
+- Live Site URL: [https://rating.hassanaamer.com/](https://rating.hassanaamer.com/)
 
 ## My process
 

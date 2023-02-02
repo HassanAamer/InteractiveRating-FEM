@@ -30,7 +30,7 @@
   /*
     3. Allow percentage-based heights in the application
   */
-  html, body {
+  body {
     height: 100%;
   }
   /*
@@ -192,4 +192,11 @@ body {
     display: grid;
     gap: 0.5rem;
     margin-bottom: 1rem;
+}
+
+/* Prevent flashing */
+html {
+  height: 100%;
+  visibility: visible;
+  opacity: 1;
 }
